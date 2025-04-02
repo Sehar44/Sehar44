@@ -7,7 +7,6 @@ Software Developer
 Passionate coder exploring the realms of technology, with a focus on creating innovative solutions and contributing to open-source projects.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPortfolio](http://sehar44.github.io/Portfolio/)
 * ✉️  You can contact me at [sehartaj44@gmail.com](mailto:sehartaj44@gmail.com)
 * 🧠  I'm learning Full Stack developement
 * 🤝  I'm open to collaborating on Machine learning and full stack projects
