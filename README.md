@@ -38,5 +38,5 @@ AI & GenAI: LLMs • Prompt Engineering • LangChain • LangGraph
 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sehar44&show_icons=true&hide_border=true" alt="GitHub Stats"/>
 </p>
